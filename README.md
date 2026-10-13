@@ -68,7 +68,6 @@ The objective is simple:
 
 `C`
 `Java`
-`Python`
 `JavaScript`
 `TypeScript`
 
